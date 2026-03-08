@@ -3,7 +3,7 @@
 **Disciplina:** Desenvolvimento de Aplicações Móveis (DAM)
 **Aluno:** Martim Machado Ramos A51736
 **Data:** 7 de março de 2026
-**URL do Repositório:** [publicar posteriormente o link do GitHub]
+**URL do Repositório:** https://github.com/martimramos32/System_Info_App
 
 ## 1. Introdução
 O objetivo desta aplicação consiste em aprender a procurar e a mostrar as características físicas e de software do telemóvel através de código.
